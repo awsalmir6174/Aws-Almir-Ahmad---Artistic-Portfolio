@@ -1,6 +1,6 @@
 # Art and choral portfolio
 
-A dated archive of sixteen works and six recorded choral productions, 2013 to 2025.
+A dated archive of sixteen artworks, six choral recordings, theatre and wrestling, 2013 to 2026.
 
 ## Publish on GitHub Pages
 
